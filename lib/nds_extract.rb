@@ -31,7 +31,7 @@ def directors_totals(nds)
       value = gross_for_director(nds[counter])
       counter += 1
     
-    result[key] = value
+      result[key] = value
     end
     
   result
